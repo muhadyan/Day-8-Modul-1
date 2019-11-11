@@ -1,4 +1,3 @@
-'''
 # bikin half pyramid
 def bintang(x):
     star = ''
@@ -82,4 +81,3 @@ def rPirRAng(x):
         angka = angku
 
 rPirRAng(5)
-'''
